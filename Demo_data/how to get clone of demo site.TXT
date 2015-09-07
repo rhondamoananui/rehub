@@ -1,0 +1,20 @@
+1. Install wordpress.
+
+2. Go to 
+https://www.dropbox.com/sh/wn00mnolm2x56b0/AACr4EpMdmZ6uaEdp3hwI_Dra?dl=0 - for REhub theme
+https://www.dropbox.com/sh/5e1oibnm4wsi586/AAC7_pnrc2sUcVRxNX-T6O0wa?dl=0 - for RE:Thing theme
+and save zip file to your computer
+
+3. Install WP Clone plugin https://wordpress.org/plugins/wp-clone-by-wp-academy/
+
+4. Upload saved file to root folder of your website and copy direct link to this file (also you can upload to any website, you just need to have direct link to file). Important! Don't change name of downloaded file!
+
+5. In WP Clone settings, open "Restore from URL" and set link to your file
+
+6. Wait for some minutes.
+
+7. Admin login is 
+login: admin
+pass: test
+
+Clone site is just for demonstration. On your projects I recommend you to use clean install of theme

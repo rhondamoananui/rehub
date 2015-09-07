@@ -1,0 +1,3478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rehub_translation_child\n"
+"POT-Creation-Date: 2015-06-25 14:48+0200\n"
+"PO-Revision-Date: 2015-06-25 14:49+0200\n"
+"Last-Translator: Sizam themes <sizamtheme@gmail.com>\n"
+"Language-Team: Sizam Design <sizamtheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/admin.php:23 ../admin/admin.php:24 ../admin/option/option.php:4
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:6
+msgid "Page block builder"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:16
+msgid "Block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:22
+msgid "Choose block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:27
+msgid "Posts string with small thumbs"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:32
+msgid "Posts grid"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:37
+msgid "Slider block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:42
+msgid "Custom text or banner"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:56
+msgid "Two column news block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:66
+msgid "Choose category for 1 column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:67
+msgid "Choose the category that you'd like to include to first column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:82
+msgid "Choose post formats for 1 column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:83
+msgid ""
+"Choose post formats to display in first column or leave blank to display all"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:98
+msgid "Offset for 1 col"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:99
+msgid "Number of posts to offset for first column  or leave blank"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:107
+msgid "Choose category for 2 column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:108
+msgid "Choose the category that you'd like to include to second column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:123
+msgid "Choose post formats for 2 column"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:124
+msgid ""
+"Choose post formats to display in second column or leave blank to display all"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:140
+msgid "Offset for 2 col"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:141
+msgid "Number of posts to offset for second column  or leave blank"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:149 ../admin/metabox/mag_builder.php:665
+#: ../admin/metabox/mag_builder.php:818 ../admin/metabox/mag_builder.php:970
+#: ../admin/metabox/mag_builder.php:1304 ../admin/metabox/mag_builder.php:1427
+#: ../functions/vc_functions.php:340 ../functions/vc_functions.php:497
+#: ../functions/vc_functions.php:552 ../functions/vc_functions.php:738
+#: ../functions/vc_functions.php:1032 ../functions/vc_functions.php:1210
+#: ../functions/vc_functions.php:1360 ../functions/vc_functions.php:1536
+#: ../functions/vc_functions.php:2215
+msgid "Fetch Count"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:150
+msgid "How much posts you'd like to display?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:159 ../admin/metabox/mag_builder.php:263
+#: ../admin/metabox/mag_builder.php:360 ../admin/metabox/mag_builder.php:537
+#: ../admin/metabox/mag_builder.php:689 ../admin/metabox/mag_builder.php:842
+#: ../admin/metabox/mag_builder.php:1011 ../admin/metabox/mag_builder.php:1109
+#: ../admin/metabox/mag_builder.php:1207 ../admin/metabox/mag_builder.php:1330
+#: ../admin/metabox/mag_builder.php:1437 ../admin/metabox/mag_builder.php:1533
+#: ../admin/metabox/mag_builder.php:1656
+msgid "Enable title of box?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:167 ../admin/metabox/mag_builder.php:271
+#: ../admin/metabox/mag_builder.php:368 ../admin/metabox/mag_builder.php:545
+#: ../admin/metabox/mag_builder.php:697 ../admin/metabox/mag_builder.php:850
+#: ../admin/metabox/mag_builder.php:1019 ../admin/metabox/mag_builder.php:1117
+#: ../admin/metabox/mag_builder.php:1215 ../admin/metabox/mag_builder.php:1338
+#: ../admin/metabox/mag_builder.php:1445 ../admin/metabox/mag_builder.php:1541
+#: ../admin/metabox/mag_builder.php:1662
+msgid "Title of block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:168 ../admin/metabox/mag_builder.php:272
+#: ../admin/metabox/mag_builder.php:369 ../admin/metabox/mag_builder.php:546
+#: ../admin/metabox/mag_builder.php:698 ../admin/metabox/mag_builder.php:851
+#: ../admin/metabox/mag_builder.php:1020 ../admin/metabox/mag_builder.php:1118
+#: ../admin/metabox/mag_builder.php:1216 ../admin/metabox/mag_builder.php:1339
+#: ../admin/metabox/mag_builder.php:1446 ../admin/metabox/mag_builder.php:1542
+#: ../admin/metabox/mag_builder.php:1663
+msgid "Set title of block (use short titles)"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:179 ../admin/metabox/mag_builder.php:283
+#: ../admin/metabox/mag_builder.php:380 ../admin/metabox/mag_builder.php:557
+#: ../admin/metabox/mag_builder.php:709 ../admin/metabox/mag_builder.php:862
+#: ../admin/metabox/mag_builder.php:1031 ../admin/metabox/mag_builder.php:1129
+#: ../admin/metabox/mag_builder.php:1227 ../admin/metabox/mag_builder.php:1350
+#: ../admin/metabox/mag_builder.php:1457 ../admin/metabox/mag_builder.php:1553
+#: ../admin/metabox/mag_builder.php:1674
+msgid "Choose style of title"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:180 ../admin/metabox/mag_builder.php:284
+#: ../admin/metabox/mag_builder.php:381 ../admin/metabox/mag_builder.php:558
+#: ../admin/metabox/mag_builder.php:710 ../admin/metabox/mag_builder.php:863
+#: ../admin/metabox/mag_builder.php:1032 ../admin/metabox/mag_builder.php:1130
+#: ../admin/metabox/mag_builder.php:1228 ../admin/metabox/mag_builder.php:1351
+#: ../admin/metabox/mag_builder.php:1458 ../admin/metabox/mag_builder.php:1554
+#: ../admin/metabox/mag_builder.php:1675
+msgid "Choose position and style of title"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:199 ../admin/metabox/mag_builder.php:303
+#: ../admin/metabox/mag_builder.php:400 ../admin/metabox/mag_builder.php:577
+#: ../admin/metabox/mag_builder.php:729 ../admin/metabox/mag_builder.php:882
+#: ../admin/metabox/mag_builder.php:1051 ../admin/metabox/mag_builder.php:1149
+#: ../admin/metabox/mag_builder.php:1247 ../admin/metabox/mag_builder.php:1370
+#: ../admin/metabox/mag_builder.php:1477 ../admin/metabox/mag_builder.php:1573
+#: ../admin/metabox/mag_builder.php:1694
+msgid "Custom URL Text:"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:200 ../admin/metabox/mag_builder.php:304
+#: ../admin/metabox/mag_builder.php:401 ../admin/metabox/mag_builder.php:578
+#: ../admin/metabox/mag_builder.php:730 ../admin/metabox/mag_builder.php:883
+#: ../admin/metabox/mag_builder.php:1052 ../admin/metabox/mag_builder.php:1150
+#: ../admin/metabox/mag_builder.php:1248 ../admin/metabox/mag_builder.php:1371
+#: ../admin/metabox/mag_builder.php:1478 ../admin/metabox/mag_builder.php:1574
+#: ../admin/metabox/mag_builder.php:1695
+msgid "Set text of url near title"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:211 ../admin/metabox/mag_builder.php:315
+#: ../admin/metabox/mag_builder.php:412 ../admin/metabox/mag_builder.php:589
+#: ../admin/metabox/mag_builder.php:741 ../admin/metabox/mag_builder.php:894
+#: ../admin/metabox/mag_builder.php:1063 ../admin/metabox/mag_builder.php:1161
+#: ../admin/metabox/mag_builder.php:1259 ../admin/metabox/mag_builder.php:1382
+#: ../admin/metabox/mag_builder.php:1489 ../admin/metabox/mag_builder.php:1585
+#: ../admin/metabox/mag_builder.php:1706 ../functions/vc_functions.php:594
+msgid "Custom URL:"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:212 ../admin/metabox/mag_builder.php:316
+#: ../admin/metabox/mag_builder.php:413 ../admin/metabox/mag_builder.php:590
+#: ../admin/metabox/mag_builder.php:742 ../admin/metabox/mag_builder.php:895
+#: ../admin/metabox/mag_builder.php:1064 ../admin/metabox/mag_builder.php:1162
+#: ../admin/metabox/mag_builder.php:1260 ../admin/metabox/mag_builder.php:1383
+#: ../admin/metabox/mag_builder.php:1490 ../admin/metabox/mag_builder.php:1586
+#: ../admin/metabox/mag_builder.php:1707
+msgid "Set url with http://"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:230
+msgid "Photo gallery"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:242 ../admin/metabox/post_type.php:130
+#: ../functions/vc_functions.php:1785
+msgid "Image"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:247
+msgid "Upload the Image Here"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:253
+msgid "Set url"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:254
+msgid "Set url on image or leave blank"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:334
+msgid "Video news block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:344
+msgid "Choose tag for block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:345
+msgid "Choose tag from which to display content in block or leave blank"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:431
+msgid "Tabbed block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:441
+msgid "Choose category for 1 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:442
+msgid "Choose the category that you'd like to include to first tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:457
+msgid "Choose name for 1 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:458
+msgid "Note, name must be maximum 15 symbols"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:465
+msgid "Choose category for 2 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:466
+msgid "Choose the category that you'd like to include to second tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:481
+msgid "Choose name for 2 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:482 ../admin/metabox/mag_builder.php:506
+#: ../admin/metabox/mag_builder.php:530
+msgid "Note, name must be maximum 12 symbols"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:489
+msgid "Choose category for 3 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:490
+msgid "Choose the category that you'd like to include to third tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:505
+msgid "Choose name for 3 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:513
+msgid "Choose category for 4 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:514
+msgid "Choose the category that you'd like to include to fourth tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:529
+msgid "Choose name for 4 tab"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:609
+msgid "Blog posts with small thumbs"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:619 ../admin/metabox/mag_builder.php:771
+#: ../admin/metabox/mag_builder.php:923
+msgid "Exclude Categories"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:620 ../admin/metabox/mag_builder.php:772
+#: ../admin/metabox/mag_builder.php:924
+msgid "Choose categories that you'd like to exclude from blog stream"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:634 ../admin/metabox/mag_builder.php:786
+#: ../admin/metabox/mag_builder.php:938
+msgid "Or Include Category"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:635 ../admin/metabox/mag_builder.php:787
+#: ../admin/metabox/mag_builder.php:939
+msgid ""
+"Choose parent category that you'd like to include to stream. Or leave blank "
+"both fields to show posts from all categories"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:649 ../admin/metabox/mag_builder.php:802
+#: ../admin/metabox/mag_builder.php:954
+msgid "Choose post formats for block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:650 ../admin/metabox/mag_builder.php:803
+#: ../admin/metabox/mag_builder.php:955
+msgid "Choose post formats to display in block or leave blank to display all"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:666 ../admin/metabox/mag_builder.php:819
+#: ../admin/metabox/mag_builder.php:971
+msgid "How much posts you'd like to display in 1 page?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:674 ../admin/metabox/mag_builder.php:827
+#: ../admin/metabox/mag_builder.php:979
+msgid "Offset for block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:675 ../admin/metabox/mag_builder.php:828
+#: ../admin/metabox/mag_builder.php:980
+msgid "Enter number of posts to offset or leave blank"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:683 ../admin/metabox/mag_builder.php:836
+#: ../functions/vc_functions.php:510 ../functions/vc_functions.php:765
+#: ../functions/vc_functions.php:1549
+msgid "Enable pagination?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:761
+msgid "Regular blog posts"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:913
+msgid "Grid style posts"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:988 ../functions/vc_functions.php:353
+#: ../functions/vc_functions.php:1373
+msgid "Pagination type"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:992 ../functions/vc_functions.php:356
+#: ../functions/vc_functions.php:1377
+msgid "Simple pagination"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:996
+msgid "New item will be added by click"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1000 ../functions/vc_functions.php:359
+#: ../functions/vc_functions.php:1376
+msgid "No pagination"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1082
+msgid "News block with thumbs"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1092 ../admin/metabox/mag_builder.php:1190
+#: ../admin/metabox/mag_builder.php:1288 ../admin/metabox/mag_builder.php:1411
+#: ../functions/vc_functions.php:538
+msgid "Choose Category"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1093 ../admin/metabox/mag_builder.php:1191
+#: ../admin/metabox/mag_builder.php:1289 ../admin/metabox/mag_builder.php:1412
+#: ../functions/vc_functions.php:541
+msgid "Choose the category that you'd like to include to block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1180
+msgid "News block without small thumbs"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1278 ../functions/vc_functions.php:530
+msgid "Posts carousel block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1305 ../functions/vc_functions.php:555
+msgid "How much posts you'd like to display in carousel?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1313 ../functions/vc_functions.php:545
+msgid "Choose post formats for carousel"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1314 ../functions/vc_functions.php:548
+msgid ""
+"Choose post formats to display in carousel or leave blank to display all"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1401
+msgid "Posts slider block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1428
+msgid "How much posts you'd like to display in slider?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1509
+msgid "Custom block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1519
+msgid "Custom code"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1520
+msgid "Insert your custom code (adsense ads, banner, etc.)"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1527
+msgid "Enable box border?"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1605 ../functions/vc_functions.php:1024
+msgid "Woo commerce product carousel"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1616 ../functions/vc_functions.php:343
+#: ../functions/vc_functions.php:500 ../functions/vc_functions.php:741
+#: ../functions/vc_functions.php:1035 ../functions/vc_functions.php:1213
+#: ../functions/vc_functions.php:1363 ../functions/vc_functions.php:1539
+#: ../functions/vc_functions.php:2218
+msgid "Number of products to display"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1626 ../functions/vc_functions.php:1040
+msgid "Type of products to display in block"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1630 ../functions/vc_functions.php:1043
+msgid "Latest products"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1634 ../functions/vc_functions.php:1044
+#: ../functions/vc_functions.php:1158 ../functions/vc_functions.php:1297
+#: ../functions/vc_functions.php:1473
+msgid "Featured products"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1638 ../functions/vc_functions.php:1045
+msgid "Best sellers"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1649 ../functions/vc_functions.php:1050
+msgid "Set category"
+msgstr ""
+
+#: ../admin/metabox/mag_builder.php:1650 ../functions/vc_functions.php:1052
+msgid "Set slug of product category or leave blank"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:6
+msgid "Post Type"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:13
+msgid "Choose Type of Post"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:18
+msgid "Regular"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:23
+msgid "Video"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:28
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:33
+msgid "Review"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:38
+msgid "Music"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:52
+msgid "Video Post"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:62
+msgid "Insert youtube or vimeo link on page with video"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:63 ../admin/metabox/post_type.php:146
+#: ../admin/metabox/post_type.php:205
+msgid "Video Url"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:69
+msgid "Enable schema.org for video?"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:70
+msgid "Check this box if you want to enable videoobject schema"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:75 ../functions/vc_functions.php:274
+#: ../functions/vc_functions.php:431 ../functions/vc_functions.php:577
+#: ../functions/vc_functions.php:672 ../functions/vc_functions.php:1181
+#: ../functions/vc_functions.php:1331 ../functions/vc_functions.php:1507
+#: ../functions/vc_functions.php:1772 ../functions/vc_functions.php:1816
+#: ../functions/vc_functions.php:1961 ../functions/vc_functions.php:2196
+msgid "Title"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:76
+msgid "Set title of video block or leave blank to use post title"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:86 ../functions/vc_functions.php:1779
+msgid "Description"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:87
+msgid "Set description of video block or leave blank to use post excerpt"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:97
+msgid "Auto thumbnail"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:98
+msgid ""
+"Enable auto thumbnails or use post thumbnail. Note, that this thumbnail is "
+"not visible in post but can be use in seo snippet"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:112
+msgid "Gallery Post"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:122 ../admin/metabox/post_type.php:173
+#: ../admin/metabox/post_type.php:269
+msgid "Disable height resize for slider"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:123 ../admin/metabox/post_type.php:174
+#: ../admin/metabox/post_type.php:270
+msgid ""
+"This option disable resize of photo. By default, photos are resized for 400 "
+"px height"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:135 ../admin/metabox/post_type.php:189
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:140 ../admin/metabox/post_type.php:194
+msgid "Caption"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:145 ../admin/metabox/post_type.php:204
+msgid ""
+"Insert youtube link of page with video. If you set this field, image and "
+"caption will be ignored for this slide"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:167
+msgid "Add slider of images to top of review page?"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:184
+msgid "Images"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:199
+msgid "Url for image"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:217
+msgid "Type of review"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:221
+msgid "Simple Review"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:225 ../admin/metabox/post_type.php:250
+msgid "Woocommerce product review"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:229 ../admin/metabox/post_type.php:292
+msgid "Product review with woocommerce offers list"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:240
+msgid "Note"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:241
+msgid ""
+"You can add countdown before offer with shortcode. Example - [wpsm_countdown "
+"year=\"2015\" month=\"04\" day=\"03\" hour=\"14\"]"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:262
+msgid "Enable slider"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:263
+msgid ""
+"This option enables slider in top of review page with images from "
+"woocommerce gallery"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:280 ../admin/metabox/post_type.php:304
+#: ../admin/metabox/post_type.php:327
+msgid "Enable shortcode inserting"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:281
+msgid ""
+"If enable you can insert offer box in any place of content with shortcode "
+"[woo_offer_product]. If disable - it will be before review box."
+msgstr ""
+
+#: ../admin/metabox/post_type.php:305
+msgid ""
+"If enable you can insert offers list in any place of content with shortcode "
+"[woo_offer_list]. If disable - it will be before review box."
+msgstr ""
+
+#: ../admin/metabox/post_type.php:315
+msgid "Review Heading"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:316
+msgid "Short review heading (e.g. Excellent!)"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:321
+msgid "Summary Text"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:328
+msgid ""
+"If enable you can insert review box in any place of content with shortcode "
+"[review]. If disable - it will be after content."
+msgstr ""
+
+#: ../admin/metabox/post_type.php:334
+msgid "Set overall score"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:335
+msgid ""
+"Enter overall score of review or leave blank to auto calculation based on "
+"criterias score"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:346
+msgid "Review Criterias"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:351
+msgid "Name"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:356
+msgid "Score"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:372
+msgid "Music Post"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:381
+msgid "Music Source"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:385
+msgid "Music from Soundcloud"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:389
+msgid "Music from Spotify"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:397
+msgid "Insert full Soundcloud embed code."
+msgstr ""
+
+#: ../admin/metabox/post_type.php:398
+msgid "Soundcloud embed code"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:407
+msgid ""
+"To get the Spotify Song URI go to <strong>Spotify</strong> > Right click on "
+"the song you want to embed > Click <strong>Copy Spotify URI</strong> > Paste "
+"code in this field.)"
+msgstr ""
+
+#: ../admin/metabox/post_type.php:408
+msgid "Spotify Song URI"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:6
+msgid "Post settings"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:15
+msgid "Read More custom text"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:16
+msgid "Will be used in some blocks instead of default read more text"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:23
+msgid "Search on amazon keyword"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:24
+#: ../admin/metabox/post_type_side.php:32
+msgid "Will be used in top offer block"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:31
+msgid "Search on ebay keyword"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:39
+msgid "Disable Left align of featured image"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:46
+msgid "Disable top offer block"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:53
+msgid "Post w/ sidebar or Full width"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:54
+msgid "Note, normal post width - 765px, full width - 1130px"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:59
+msgid "Post w/ Sidebar"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:63
+msgid "Full Width Post"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:71
+msgid "Editor choice label"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:72
+msgid "Check this box if you want to show \"Editor's Choice\" label"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:78
+msgid "Disable Featured Image, Video or Gallery in top part on post page"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:84
+msgid "Disable parts?"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:85
+msgid ""
+"Check this box if you want to disable tags, breadcrumbs, author box, share "
+"buttons in post"
+msgstr ""
+
+#: ../admin/metabox/post_type_side.php:90
+msgid "Disable global ads in this post"
+msgstr ""
+
+#: ../admin/option/option.php:9 ../admin/option/option.php:15
+msgid "General Options"
+msgstr ""
+
+#: ../admin/option/option.php:21
+msgid "Select Blog Layout"
+msgstr ""
+
+#: ../admin/option/option.php:22
+msgid ""
+"Select what kind of post string layout you want to use for blog, archives"
+msgstr ""
+
+#: ../admin/option/option.php:26 ../admin/option/option.php:76
+msgid "Grid layout"
+msgstr ""
+
+#: ../admin/option/option.php:30 ../admin/option/option.php:53
+#: ../admin/option/option.php:72 ../admin/option/option.php:1587
+msgid "List Layout with left thumbnails"
+msgstr ""
+
+#: ../admin/option/option.php:34 ../admin/option/option.php:57
+#: ../admin/option/option.php:80 ../admin/option/option.php:1595
+msgid "Full width Grid layout"
+msgstr ""
+
+#: ../admin/option/option.php:44
+msgid "Select Category Layout"
+msgstr ""
+
+#: ../admin/option/option.php:45
+msgid "Select what kind of post string layout you want to use for categories"
+msgstr ""
+
+#: ../admin/option/option.php:49 ../admin/option/option.php:1591
+msgid "Grid layout with sidebar"
+msgstr ""
+
+#: ../admin/option/option.php:67
+msgid "Select Search Layout"
+msgstr ""
+
+#: ../admin/option/option.php:68
+msgid "Select what kind of post string layout you want to use for search pages"
+msgstr ""
+
+#: ../admin/option/option.php:90
+msgid "Select pagination type"
+msgstr ""
+
+#: ../admin/option/option.php:94
+msgid "Simple Pagination"
+msgstr ""
+
+#: ../admin/option/option.php:98 ../functions/vc_functions.php:357
+msgid "Next page button"
+msgstr ""
+
+#: ../admin/option/option.php:108
+msgid "Select Image size in grid"
+msgstr ""
+
+#: ../admin/option/option.php:112
+msgid "Images contain full container"
+msgstr ""
+
+#: ../admin/option/option.php:116
+msgid "Full images without crop"
+msgstr ""
+
+#: ../admin/option/option.php:127
+msgid "Add ads code in each N item"
+msgstr ""
+
+#: ../admin/option/option.php:166
+msgid "Ads code to insert in grid item"
+msgstr ""
+
+#: ../admin/option/option.php:167 ../admin/option/option.php:223
+msgid "Enter your Analytics code or any html, js code"
+msgstr ""
+
+#: ../admin/option/option.php:174
+msgid "Set descriptions for item with ads."
+msgstr ""
+
+#: ../admin/option/option.php:175
+msgid ""
+"Add simple text, each text stroke from next line. Text will be used randomly"
+msgstr ""
+
+#: ../admin/option/option.php:181
+msgid "Set custom meta slug for price filter"
+msgstr ""
+
+#: ../admin/option/option.php:182
+msgid ""
+"Set slug for home filter template. For example, rehub_main_product_price if "
+"you use post offer section. Or affegg_product_price if you use affiliate Egg "
+"plugin"
+msgstr ""
+
+#: ../admin/option/option.php:187
+msgid "Specify text for search link for Amazon"
+msgstr ""
+
+#: ../admin/option/option.php:188 ../admin/option/option.php:206
+msgid "This is used in top offer block"
+msgstr ""
+
+#: ../admin/option/option.php:193
+msgid "Specify generated search url for Amazon"
+msgstr ""
+
+#: ../admin/option/option.php:194
+msgid ""
+"You can copy it from url generator on amazon. Link must be without keywords "
+"parameter. Example http://www.amazon.com/gp/search?"
+"ie=UTF8&camp=1789&creative=9325&index=aps&linkCode=ur2&tag=wpsoul-20"
+msgstr ""
+
+#: ../admin/option/option.php:199
+msgid "Specify generated search url for Ebay"
+msgstr ""
+
+#: ../admin/option/option.php:200
+msgid ""
+"You can copy it from url generator on ebay. Link must be without icep_uq "
+"parameter. Example http://rover.ebay.com/rover/1/711-53200-19255-0/1?"
+"icep_ff3=9&toolid=10001&campid=5337368100&customid=&icep_sellerId=&icep_ex_kw=&icep_sortBy=12"
+msgstr ""
+
+#: ../admin/option/option.php:205
+msgid "Specify text for search link for Ebay"
+msgstr ""
+
+#: ../admin/option/option.php:214
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/option/option.php:215
+msgid "Write your custom CSS here"
+msgstr ""
+
+#: ../admin/option/option.php:222
+msgid "Analytics Code/js code"
+msgstr ""
+
+#: ../admin/option/option.php:230
+msgid "Set sidebar to left side?"
+msgstr ""
+
+#: ../admin/option/option.php:238
+msgid "Logo & favicon"
+msgstr ""
+
+#: ../admin/option/option.php:245
+msgid "Logo settings"
+msgstr ""
+
+#: ../admin/option/option.php:250
+msgid "Upload Logo"
+msgstr ""
+
+#: ../admin/option/option.php:251
+msgid "Upload your logo. Max width is 463px. (1200px for full width)"
+msgstr ""
+
+#: ../admin/option/option.php:257
+msgid "Margin logo from top"
+msgstr ""
+
+#: ../admin/option/option.php:258
+msgid "Set space between logo and top area in pixels"
+msgstr ""
+
+#: ../admin/option/option.php:267
+msgid "Upload Logo (retina version)"
+msgstr ""
+
+#: ../admin/option/option.php:268
+msgid ""
+"Upload retina version of the logo. It should be 2x the size of main logo."
+msgstr ""
+
+#: ../admin/option/option.php:274
+msgid "Retina logo width"
+msgstr ""
+
+#: ../admin/option/option.php:275
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"width, do not enter the retina logo width."
+msgstr ""
+
+#: ../admin/option/option.php:280
+msgid "Retina logo height"
+msgstr ""
+
+#: ../admin/option/option.php:281
+msgid ""
+"If retina logo is uploaded, please enter the standard logo (1x) version "
+"height, do not enter the retina logo height."
+msgstr ""
+
+#: ../admin/option/option.php:286
+msgid "Text logo"
+msgstr ""
+
+#: ../admin/option/option.php:287
+msgid "You can type text logo. Use this field only if no image logo"
+msgstr ""
+
+#: ../admin/option/option.php:292
+msgid "Slogan"
+msgstr ""
+
+#: ../admin/option/option.php:293
+msgid ""
+"You can type slogan below text logo. Use this field only if no image logo"
+msgstr ""
+
+#: ../admin/option/option.php:300
+msgid "Favicons"
+msgstr ""
+
+#: ../admin/option/option.php:306
+msgid "144px Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:307
+msgid ""
+"Upload your favicon for third-generation iPad with high-resolution Retina "
+"display (144x144 px)"
+msgstr ""
+
+#: ../admin/option/option.php:314
+msgid "114px Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:315
+msgid ""
+"Upload your favicon for iPhone with high-resolution Retina display (114x114 "
+"px)"
+msgstr ""
+
+#: ../admin/option/option.php:322
+msgid "72px Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:323
+msgid "Upload your favicon For first- and second-generation iPad (72x72 px)"
+msgstr ""
+
+#: ../admin/option/option.php:330
+msgid "57px Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:331
+msgid ""
+"Upload your favicon For non-Retina iPhone, iPod Touch, and Android 2.1+ "
+"devices (57x57 px)"
+msgstr ""
+
+#: ../admin/option/option.php:337
+msgid "Default Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:338
+msgid "Upload your favicon For Default Browser"
+msgstr ""
+
+#: ../admin/option/option.php:346
+msgid "Header and Menu"
+msgstr ""
+
+#: ../admin/option/option.php:352
+msgid "Header Options"
+msgstr ""
+
+#: ../admin/option/option.php:357
+msgid "Select Header style"
+msgstr ""
+
+#: ../admin/option/option.php:361
+msgid "Logo + text slogan + search box"
+msgstr ""
+
+#: ../admin/option/option.php:365
+msgid "Logo + banner 728X90"
+msgstr ""
+
+#: ../admin/option/option.php:369
+msgid "Full width logo"
+msgstr ""
+
+#: ../admin/option/option.php:373
+msgid "Full width logo + full width banner"
+msgstr ""
+
+#: ../admin/option/option.php:377
+msgid "Logo + menu"
+msgstr ""
+
+#: ../admin/option/option.php:387
+msgid "Enable block width of header"
+msgstr ""
+
+#: ../admin/option/option.php:393
+msgid "Sticky Navigation Bar"
+msgstr ""
+
+#: ../admin/option/option.php:394
+msgid "Enable/Disable Sticky navigation bar."
+msgstr ""
+
+#: ../admin/option/option.php:401
+msgid "Enable Header Social Icons"
+msgstr ""
+
+#: ../admin/option/option.php:402
+msgid "You can set your social media URLs in the Social Media Options tab."
+msgstr ""
+
+#: ../admin/option/option.php:408
+msgid "Disable cart in header"
+msgstr ""
+
+#: ../admin/option/option.php:414
+msgid "Disable top block"
+msgstr ""
+
+#: ../admin/option/option.php:415
+msgid "You can disable top block with links, cart, social icons in header"
+msgstr ""
+
+#: ../admin/option/option.php:421
+msgid "Choose color style of header"
+msgstr ""
+
+#: ../admin/option/option.php:422
+msgid "Choose one of predefinite style of header or set custom"
+msgstr ""
+
+#: ../admin/option/option.php:426
+msgid "Dark"
+msgstr ""
+
+#: ../admin/option/option.php:430
+msgid "Custom"
+msgstr ""
+
+#: ../admin/option/option.php:442
+msgid "Custom Header Options"
+msgstr ""
+
+#: ../admin/option/option.php:447
+msgid "Note!"
+msgstr ""
+
+#: ../admin/option/option.php:448
+msgid ""
+"Custom colors will work only if you choose custom style of header in select "
+"box above"
+msgstr ""
+
+#: ../admin/option/option.php:454 ../admin/option/option.php:745
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/option/option.php:455
+msgid "Choose the background color or leave blank for default"
+msgstr ""
+
+#: ../admin/option/option.php:461 ../admin/option/option.php:753
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/option/option.php:462
+msgid "Upload a background image or leave blank"
+msgstr ""
+
+#: ../admin/option/option.php:469
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/option/option.php:473
+msgid "Repeat"
+msgstr ""
+
+#: ../admin/option/option.php:477
+msgid "No Repeat"
+msgstr ""
+
+#: ../admin/option/option.php:481
+msgid "Repeat X"
+msgstr ""
+
+#: ../admin/option/option.php:485
+msgid "Repeat Y"
+msgstr ""
+
+#: ../admin/option/option.php:493
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/option/option.php:513
+msgid "Set offset"
+msgstr ""
+
+#: ../admin/option/option.php:514
+msgid "Set offset from top for background (without px) for avoid overlap"
+msgstr ""
+
+#: ../admin/option/option.php:521
+msgid "Custom color of menu background"
+msgstr ""
+
+#: ../admin/option/option.php:522 ../admin/option/option.php:530
+#: ../admin/option/option.php:546
+msgid "Or leave blank for default color"
+msgstr ""
+
+#: ../admin/option/option.php:529
+msgid "Custom color of menu font"
+msgstr ""
+
+#: ../admin/option/option.php:537
+msgid "Custom color for top line of header"
+msgstr ""
+
+#: ../admin/option/option.php:538
+msgid "Or leave blank for default white color"
+msgstr ""
+
+#: ../admin/option/option.php:545
+msgid "Custom color of menu font for top line of header"
+msgstr ""
+
+#: ../admin/option/option.php:555
+msgid "Footer Options"
+msgstr ""
+
+#: ../admin/option/option.php:561
+msgid "Footer options"
+msgstr ""
+
+#: ../admin/option/option.php:566
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../admin/option/option.php:567
+msgid "Enable or Disable the footer widget area"
+msgstr ""
+
+#: ../admin/option/option.php:573
+msgid "Enable footer block width?"
+msgstr ""
+
+#: ../admin/option/option.php:580
+msgid "Footer Bottom Text"
+msgstr ""
+
+#: ../admin/option/option.php:581
+msgid "Enter your copyright text or whatever you want right here."
+msgstr ""
+
+#: ../admin/option/option.php:589
+msgid "Upload Logo for footer"
+msgstr ""
+
+#: ../admin/option/option.php:590
+msgid "Upload your logo for footer."
+msgstr ""
+
+#: ../admin/option/option.php:598
+msgid "Social Media Options"
+msgstr ""
+
+#: ../admin/option/option.php:604
+msgid "Social Media Pages"
+msgstr ""
+
+#: ../admin/option/option.php:609
+msgid "Facebook link"
+msgstr ""
+
+#: ../admin/option/option.php:615
+msgid "Twitter link"
+msgstr ""
+
+#: ../admin/option/option.php:621
+msgid "Google plus link"
+msgstr ""
+
+#: ../admin/option/option.php:627
+msgid "Instagram link"
+msgstr ""
+
+#: ../admin/option/option.php:633
+msgid "Tumblr link"
+msgstr ""
+
+#: ../admin/option/option.php:639
+msgid "Youtube link"
+msgstr ""
+
+#: ../admin/option/option.php:645
+msgid "Vimeo link"
+msgstr ""
+
+#: ../admin/option/option.php:651
+msgid "Pinterest link"
+msgstr ""
+
+#: ../admin/option/option.php:657
+msgid "Linkedin link"
+msgstr ""
+
+#: ../admin/option/option.php:663
+msgid "Soundcloud link"
+msgstr ""
+
+#: ../admin/option/option.php:669
+msgid "Dribbble link"
+msgstr ""
+
+#: ../admin/option/option.php:675
+msgid "Vk.com link"
+msgstr ""
+
+#: ../admin/option/option.php:682
+msgid "Rss link"
+msgstr ""
+
+#: ../admin/option/option.php:690
+msgid "Appearance/Color"
+msgstr ""
+
+#: ../admin/option/option.php:696
+msgid "Color schema of website"
+msgstr ""
+
+#: ../admin/option/option.php:701
+msgid "Choose main color schema"
+msgstr ""
+
+#: ../admin/option/option.php:705
+msgid "Default - red"
+msgstr ""
+
+#: ../admin/option/option.php:709 ../functions/vc_functions.php:1698
+#: ../functions/vc_functions.php:1748
+msgid "Blue"
+msgstr ""
+
+#: ../admin/option/option.php:713
+msgid "Green"
+msgstr ""
+
+#: ../admin/option/option.php:717
+msgid "Violet"
+msgstr ""
+
+#: ../admin/option/option.php:721
+msgid "Yellow"
+msgstr ""
+
+#: ../admin/option/option.php:731
+msgid "Custom main color"
+msgstr ""
+
+#: ../admin/option/option.php:732
+msgid "Or you can set any main color (it will be used under white text)"
+msgstr ""
+
+#: ../admin/option/option.php:738
+msgid "Custom secondary color"
+msgstr ""
+
+#: ../admin/option/option.php:739
+msgid "Set secondary color (for search buttons, tabs, etc). Default - blue"
+msgstr ""
+
+#: ../admin/option/option.php:746
+msgid "Choose the background color"
+msgstr ""
+
+#: ../admin/option/option.php:754
+msgid "Upload a background image"
+msgstr ""
+
+#: ../admin/option/option.php:763
+msgid "Disable dotted overlay on thumbnails?"
+msgstr ""
+
+#: ../admin/option/option.php:769
+msgid "Enable ecwid store customization?"
+msgstr ""
+
+#: ../admin/option/option.php:775
+msgid "Custom color for links inside posts"
+msgstr ""
+
+#: ../admin/option/option.php:782
+msgid "Fonts Options"
+msgstr ""
+
+#: ../admin/option/option.php:789
+msgid "Navigation Font"
+msgstr ""
+
+#: ../admin/option/option.php:794
+msgid "Navigation Font Family"
+msgstr ""
+
+#: ../admin/option/option.php:795
+msgid "Font for navigation"
+msgstr ""
+
+#: ../admin/option/option.php:808 ../admin/option/option.php:881
+#: ../admin/option/option.php:954 ../admin/option/option.php:1028
+msgid "Font Style"
+msgstr ""
+
+#: ../admin/option/option.php:825 ../admin/option/option.php:898
+#: ../admin/option/option.php:971 ../admin/option/option.php:1045
+msgid "Font Weight"
+msgstr ""
+
+#: ../admin/option/option.php:839 ../admin/option/option.php:912
+#: ../admin/option/option.php:985 ../admin/option/option.php:1059
+msgid "Font Subset"
+msgstr ""
+
+#: ../admin/option/option.php:854 ../admin/option/option.php:927
+#: ../admin/option/option.php:1000
+msgid "Disable uppercase?"
+msgstr ""
+
+#: ../admin/option/option.php:862
+msgid "Headings Font"
+msgstr ""
+
+#: ../admin/option/option.php:867
+msgid "Headings Font Family"
+msgstr ""
+
+#: ../admin/option/option.php:868
+msgid "Font for headings in text, sidebar, footer"
+msgstr ""
+
+#: ../admin/option/option.php:935
+msgid "Block Titles"
+msgstr ""
+
+#: ../admin/option/option.php:940
+msgid "Block Titles Font"
+msgstr ""
+
+#: ../admin/option/option.php:941
+msgid "Font for titles of content blocks and pages"
+msgstr ""
+
+#: ../admin/option/option.php:1009
+msgid "Body Font"
+msgstr ""
+
+#: ../admin/option/option.php:1014
+msgid "Body Font Family"
+msgstr ""
+
+#: ../admin/option/option.php:1015
+msgid "Font for body text"
+msgstr ""
+
+#: ../admin/option/option.php:1074
+msgid "Set body font size"
+msgstr ""
+
+#: ../admin/option/option.php:1075
+msgid "Set font size in px"
+msgstr ""
+
+#: ../admin/option/option.php:1084
+msgid "Global Enable/Disable"
+msgstr ""
+
+#: ../admin/option/option.php:1090
+msgid "Global options"
+msgstr ""
+
+#: ../admin/option/option.php:1095
+msgid "Enable resizer script"
+msgstr ""
+
+#: ../admin/option/option.php:1096
+msgid "Use resizer script for thumbnails"
+msgstr ""
+
+#: ../admin/option/option.php:1102
+msgid "Disable crop in resizer script"
+msgstr ""
+
+#: ../admin/option/option.php:1108
+msgid "Enable theme shortcode"
+msgstr ""
+
+#: ../admin/option/option.php:1109
+msgid "Enable built-in shortcode plugin"
+msgstr ""
+
+#: ../admin/option/option.php:1115
+msgid "Disable author link"
+msgstr ""
+
+#: ../admin/option/option.php:1116
+msgid "Disable author link from meta in string"
+msgstr ""
+
+#: ../admin/option/option.php:1122
+msgid "Disable category link"
+msgstr ""
+
+#: ../admin/option/option.php:1123
+msgid "Disable category link from meta in string"
+msgstr ""
+
+#: ../admin/option/option.php:1129
+msgid "Disable date"
+msgstr ""
+
+#: ../admin/option/option.php:1130
+msgid "Disable date from meta in string"
+msgstr ""
+
+#: ../admin/option/option.php:1136
+msgid "Disable comments count"
+msgstr ""
+
+#: ../admin/option/option.php:1137
+msgid "Disable comments count from meta in string"
+msgstr ""
+
+#: ../admin/option/option.php:1143
+msgid "Font Awesome icons fallback"
+msgstr ""
+
+#: ../admin/option/option.php:1144
+msgid ""
+"Load Font Awesome icons from theme. Enable only if CDN of Font Awesome icons "
+"falls"
+msgstr ""
+
+#: ../admin/option/option.php:1151
+msgid "Global disabling parts on single pages"
+msgstr ""
+
+#: ../admin/option/option.php:1156
+msgid "Disable full width title?"
+msgstr ""
+
+#: ../admin/option/option.php:1157
+msgid "This option disables big full width title and places it inside content"
+msgstr ""
+
+#: ../admin/option/option.php:1163
+msgid "Disable breadcrumbs"
+msgstr ""
+
+#: ../admin/option/option.php:1164
+msgid "Disable breadcrumbs from pages"
+msgstr ""
+
+#: ../admin/option/option.php:1171 ../admin/option/option.php:1178
+msgid "Disable share buttons"
+msgstr ""
+
+#: ../admin/option/option.php:1172
+msgid "Disable share buttons after content on pages"
+msgstr ""
+
+#: ../admin/option/option.php:1179
+msgid "Disable share buttons before content on pages"
+msgstr ""
+
+#: ../admin/option/option.php:1185
+msgid "Disable previous and next"
+msgstr ""
+
+#: ../admin/option/option.php:1186
+msgid "Disable previous and next post buttons"
+msgstr ""
+
+#: ../admin/option/option.php:1192
+msgid "Disable to top button"
+msgstr ""
+
+#: ../admin/option/option.php:1198
+msgid "Disable tags"
+msgstr ""
+
+#: ../admin/option/option.php:1199
+msgid "Disable tags after content from pages"
+msgstr ""
+
+#: ../admin/option/option.php:1206
+msgid "Disable author box"
+msgstr ""
+
+#: ../admin/option/option.php:1207
+msgid "Disable author box after content from pages"
+msgstr ""
+
+#: ../admin/option/option.php:1213
+msgid "Disable relative posts"
+msgstr ""
+
+#: ../admin/option/option.php:1214
+msgid "Disable relative posts box after content from pages"
+msgstr ""
+
+#: ../admin/option/option.php:1220
+msgid "Disable top thumbnail on single page"
+msgstr ""
+
+#: ../admin/option/option.php:1226
+msgid "Disable standart comments"
+msgstr ""
+
+#: ../admin/option/option.php:1232
+msgid "Insert comments widget code"
+msgstr ""
+
+#: ../admin/option/option.php:1233
+msgid "You can set here comments widget, for example, from disqus"
+msgstr ""
+
+#: ../admin/option/option.php:1243
+msgid "Ads Options"
+msgstr ""
+
+#: ../admin/option/option.php:1249
+msgid "Ads code in header and footer"
+msgstr ""
+
+#: ../admin/option/option.php:1254 ../admin/option/option.php:1263
+#: ../admin/option/option.php:1272 ../admin/option/option.php:1287
+#: ../admin/option/option.php:1296 ../admin/option/option.php:1312
+msgid "Insert custom ads code"
+msgstr ""
+
+#: ../admin/option/option.php:1255
+msgid ""
+"This banner code will be visible in header. Width of this zone depends on "
+"style of header (You can choose it in Main Option tab)"
+msgstr ""
+
+#: ../admin/option/option.php:1264
+msgid "This banner code will be visible before header."
+msgstr ""
+
+#: ../admin/option/option.php:1273
+msgid "This banner code will be visible before footer"
+msgstr ""
+
+#: ../admin/option/option.php:1282
+msgid "Global code for single page"
+msgstr ""
+
+#: ../admin/option/option.php:1288
+msgid "This code will be visible after title"
+msgstr ""
+
+#: ../admin/option/option.php:1297
+msgid "This code will be visible before post content"
+msgstr ""
+
+#: ../admin/option/option.php:1305
+msgid "Tips"
+msgstr ""
+
+#: ../admin/option/option.php:1306
+msgid ""
+"You can wrap your code with &lt;div class=&quot;right_code&quot;&gt;your ads "
+"code&lt;/div&gt; if you want to add right float or &lt;div class=&quot;"
+"left_code&quot;&gt;your ads code&lt;/div&gt; for left float. Please, use "
+"square ads with width 250-300px for floated ads."
+msgstr ""
+
+#: ../admin/option/option.php:1313
+msgid "This code will be visible after post"
+msgstr ""
+
+#: ../admin/option/option.php:1321 ../admin/option/option.php:1329
+msgid "Insert custom ads code for shortcode"
+msgstr ""
+
+#: ../admin/option/option.php:1322
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads1]"
+msgstr ""
+
+#: ../admin/option/option.php:1330
+msgid ""
+"You can insert this code in any place of content by shortcode [wpsm_ads2]"
+msgstr ""
+
+#: ../admin/option/option.php:1338
+msgid "AdBlock notify"
+msgstr ""
+
+#: ../admin/option/option.php:1343
+msgid "Enable Adblock notify?"
+msgstr ""
+
+#: ../admin/option/option.php:1344
+msgid ""
+"If enabled, site visitors can see notice in place of your ads if they have "
+"installed ads blocker"
+msgstr ""
+
+#: ../admin/option/option.php:1350
+msgid "Set notice"
+msgstr ""
+
+#: ../admin/option/option.php:1351
+msgid "Set notice or leave default"
+msgstr ""
+
+#: ../admin/option/option.php:1365
+msgid "Reviews/Affiliate"
+msgstr ""
+
+#: ../admin/option/option.php:1371
+msgid "Reviews, links, rating"
+msgstr ""
+
+#: ../admin/option/option.php:1376
+msgid "Type of user ratings"
+msgstr ""
+
+#: ../admin/option/option.php:1380
+msgid "simple rating, no criterias"
+msgstr ""
+
+#: ../admin/option/option.php:1384
+msgid "full review with criterias and pros, cons"
+msgstr ""
+
+#: ../admin/option/option.php:1388
+msgid "none"
+msgstr ""
+
+#: ../admin/option/option.php:1396
+msgid "How to calculate total score of review"
+msgstr ""
+
+#: ../admin/option/option.php:1400
+msgid "based on editor's score"
+msgstr ""
+
+#: ../admin/option/option.php:1404
+msgid "average (editor's and user's)"
+msgstr ""
+
+#: ../admin/option/option.php:1408
+msgid "user's score (don't show editor's review)"
+msgstr ""
+
+#: ../admin/option/option.php:1420
+msgid "User review criteria names"
+msgstr ""
+
+#: ../admin/option/option.php:1421
+msgid "Type with commas and no spaces. Example: Design,Price,Battery life"
+msgstr ""
+
+#: ../admin/option/option.php:1430
+msgid "Allow to rate posts"
+msgstr ""
+
+#: ../admin/option/option.php:1431
+msgid "Who can rate review posts?"
+msgstr ""
+
+#: ../admin/option/option.php:1435
+msgid "guests"
+msgstr ""
+
+#: ../admin/option/option.php:1439
+msgid "users"
+msgstr ""
+
+#: ../admin/option/option.php:1443
+msgid "guests and users"
+msgstr ""
+
+#: ../admin/option/option.php:1451
+msgid "Color type of review box"
+msgstr ""
+
+#: ../admin/option/option.php:1455
+msgid "one color"
+msgstr ""
+
+#: ../admin/option/option.php:1459
+msgid "multicolor"
+msgstr ""
+
+#: ../admin/option/option.php:1467
+msgid "Default color for editor's review box and total score"
+msgstr ""
+
+#: ../admin/option/option.php:1468
+msgid "Choose the background color or leave blank for default red color"
+msgstr ""
+
+#: ../admin/option/option.php:1478
+msgid "Default color for user review box and user stars"
+msgstr ""
+
+#: ../admin/option/option.php:1479
+msgid "Choose the background color or leave blank for default blue color"
+msgstr ""
+
+#: ../admin/option/option.php:1489
+msgid "Replace colors by category color"
+msgstr ""
+
+#: ../admin/option/option.php:1490
+msgid ""
+"Do you want to replace default colors of review box with custom color of "
+"category?"
+msgstr ""
+
+#: ../admin/option/option.php:1500
+msgid "Color for stars in comments (default is blue)"
+msgstr ""
+
+#: ../admin/option/option.php:1510
+msgid "Set symbol of main currency (example, $)"
+msgstr ""
+
+#: ../admin/option/option.php:1515
+msgid "Open links in new tab?"
+msgstr ""
+
+#: ../admin/option/option.php:1516
+msgid "Open links in offer boxes in new tab?"
+msgstr ""
+
+#: ../admin/option/option.php:1522
+msgid "Add tracking?"
+msgstr ""
+
+#: ../admin/option/option.php:1523
+msgid ""
+"Add tracking on offer buttons? It works with google Analytics. Reports is "
+"under \\\"Offer\\\" category in analytics website"
+msgstr ""
+
+#: ../admin/option/option.php:1529
+msgid "Add nofollow?"
+msgstr ""
+
+#: ../admin/option/option.php:1530
+msgid "Add to all links in offer boxes rel nofollow?"
+msgstr ""
+
+#: ../admin/option/option.php:1536 ../admin/option/option.php:1549
+msgid "Set text for button"
+msgstr ""
+
+#: ../admin/option/option.php:1537
+msgid ""
+"It will be used on button for product reviews, top rating pages instead BUY "
+"THIS ITEM"
+msgstr ""
+
+#: ../admin/option/option.php:1543
+msgid "Set text for coupon mask"
+msgstr ""
+
+#: ../admin/option/option.php:1544
+msgid "It will be used on coupon mask instead REVEAL COUPON"
+msgstr ""
+
+#: ../admin/option/option.php:1550
+msgid ""
+"It will be used on button for products with list of links instead CHOOSE "
+"OFFER."
+msgstr ""
+
+#: ../admin/option/option.php:1556
+msgid "Set text for read more link"
+msgstr ""
+
+#: ../admin/option/option.php:1557
+msgid "It will be used instead READ MORE"
+msgstr ""
+
+#: ../admin/option/option.php:1562
+msgid "Set text for full review link"
+msgstr ""
+
+#: ../admin/option/option.php:1563
+msgid "It will be used in top review pages instead READ FULL REVIEW"
+msgstr ""
+
+#: ../admin/option/option.php:1571
+msgid "EasyDigitalDownload"
+msgstr ""
+
+#: ../admin/option/option.php:1577
+msgid "Options for plugin Easydigitaldownload"
+msgstr ""
+
+#: ../admin/option/option.php:1582
+msgid "Select Easydigitaldownload Layout"
+msgstr ""
+
+#: ../admin/option/option.php:1583
+msgid ""
+"Select what layout you want to use for archives of easydigitaldownload "
+"plugin pages."
+msgstr ""
+
+#: ../admin/option/option.php:1605
+msgid "Enable rating?"
+msgstr ""
+
+#: ../admin/option/option.php:1606
+msgid "Enable built-in user rating system?"
+msgstr ""
+
+#: ../admin/option/option.php:1612
+msgid "Enable counter for sales and downloads?"
+msgstr ""
+
+#: ../admin/option/option.php:1613
+msgid "Enable counter in widget download details?"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:14
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:14
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:119
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:13
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:13
+#: ../affegg-templates/egg_item_rehub_button.php:8
+#: ../affegg-templates/egg_item_rehub_compact.php:14
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:86
+#: ../affegg-templates/egg_item_rehub_grid_3_col.php:23
+#: ../affegg-templates/egg_item_rehub_grid_4_col.php:23
+#: ../affegg-templates/egg_item_rehub_slider.php:22
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:31
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:26
+#: ../functions.php:566
+msgid "Buy this item"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:28
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:28
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:30
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:30
+#: ../affegg-templates/egg_item_rehub_slider.php:46
+msgid "Show more images"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:68
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:66
+msgid "Made by: "
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:68
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:66
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:70
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:68
+#: ../affegg-templates/egg_item_rehub_compact.php:48
+#: ../affegg-templates/egg_item_rehub_slider.php:75
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:51
+msgid "Available: "
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:68
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:66
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:161
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:70
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:68
+#: ../affegg-templates/egg_item_rehub_compact.php:48
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:128
+#: ../affegg-templates/egg_item_rehub_slider.php:75
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:51
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:68
+msgid "In stock"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:68
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:66
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:70
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:68
+#: ../affegg-templates/egg_item_rehub_compact.php:48
+#: ../affegg-templates/egg_item_rehub_slider.php:75
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:51
+msgid "no"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:86
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:84
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:177
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:88
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:86
+#: ../affegg-templates/egg_item_rehub_compact.php:84
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:144
+#: ../affegg-templates/egg_item_rehub_grid_3_col.php:84
+#: ../affegg-templates/egg_item_rehub_grid_4_col.php:84
+#: ../affegg-templates/egg_item_rehub_slider.php:93
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:87
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:84
+#: ../functions/vc_templates/wpsm_woocolumns.php:128
+#: ../functions/vc_templates/wpsm_woogrid.php:136
+msgid "days left"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:90
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:88
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:181
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:92
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:90
+#: ../affegg-templates/egg_item_rehub_compact.php:88
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:148
+#: ../affegg-templates/egg_item_rehub_grid_3_col.php:88
+#: ../affegg-templates/egg_item_rehub_grid_4_col.php:88
+#: ../affegg-templates/egg_item_rehub_slider.php:97
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:91
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:88
+#: ../functions/vc_templates/wpsm_woocolumns.php:132
+#: ../functions/vc_templates/wpsm_woogrid.php:140
+msgid "Last day"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:94
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:92
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:185
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:96
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:94
+#: ../affegg-templates/egg_item_rehub_compact.php:92
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:152
+#: ../affegg-templates/egg_item_rehub_grid_3_col.php:92
+#: ../affegg-templates/egg_item_rehub_grid_4_col.php:92
+#: ../affegg-templates/egg_item_rehub_slider.php:101
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:95
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:92
+#: ../functions/vc_templates/wpsm_woocolumns.php:136
+#: ../functions/vc_templates/wpsm_woogrid.php:144
+msgid "Coupon is Expired"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big.php:105
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:103
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:196
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:107
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:105
+#: ../affegg-templates/egg_item_rehub_compact.php:103
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:163
+#: ../affegg-templates/egg_item_rehub_grid_3_col.php:103
+#: ../affegg-templates/egg_item_rehub_grid_4_col.php:103
+#: ../affegg-templates/egg_item_rehub_slider.php:112
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:106
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:103
+#: ../functions/vc_templates/wpsm_woocolumns.php:146
+#: ../functions/vc_templates/wpsm_woogrid.php:154
+msgid "Reveal coupon"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_no_title.php:118
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:177
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:120
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:117
+msgid "See more from category"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:47
+msgid "Total Score"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:52
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:73
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:57
+msgid "Start from: "
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:60
+msgid "Buy with best price"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:81
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:65
+msgid "Best price"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:92
+msgid "Read more on shop website "
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:101
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:31
+msgid "Deals"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:102
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:124
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:122
+#: ../affegg-templates/egg_item_rehub_compact.php:23
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:32
+msgid "Specification"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:103
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:125
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:123
+#: ../affegg-templates/egg_item_rehub_compact.php:24
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:33
+msgid "Photos"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:104
+#: ../affegg-templates/egg_item_rehub_big_with_extra.php:126
+#: ../affegg-templates/egg_item_rehub_big_with_extra_no_title.php:124
+#: ../affegg-templates/egg_item_rehub_compact.php:25
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:34
+msgid "Last comments"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:161
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:128
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:68
+msgid "Out of stock"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_big_with_dealsextra.php:207
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:174
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:117
+#: ../affegg-templates/egg_item_rehub_sorted_list_simple.php:114
+msgid "Last price update was in: "
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_compact.php:22
+#: ../affegg-templates/egg_item_rehub_compact_withdeals.php:30
+#: ../template-toptable.php:18
+msgid "Product"
+msgstr ""
+
+#: ../affegg-templates/egg_item_rehub_sorted_list.php:19
+msgid "Choose your deal"
+msgstr ""
+
+#: ../affegg-templates/wegg_rehub_offers.php:19
+msgid "See deal"
+msgstr ""
+
+#: ../archive-download.php:7
+msgid "Downloads"
+msgstr ""
+
+#: ../archive-download.php:105 ../archive.php:68 ../category.php:38
+#: ../taxonomy-download_category.php:104 ../taxonomy-download_tag.php:104
+#: ../template-fullwidthgrid.php:61
+msgid "Sorry. No posts in this category yet"
+msgstr ""
+
+#: ../archive.php:15 ../category.php:7 ../taxonomy-download_category.php:7
+msgid "Category:"
+msgstr ""
+
+#: ../archive.php:17 ../taxonomy-download_tag.php:7
+msgid "Tag:"
+msgstr ""
+
+#: ../archive.php:20
+msgid "Archive:"
+msgstr ""
+
+#: ../archive.php:22 ../archive.php:24
+msgid "Browsing Archive"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Browsing All Posts By"
+msgstr ""
+
+#: ../archive.php:73 ../category.php:43 ../functions.php:666 ../index.php:49
+#: ../repick_index.php:58
+msgid "Next posts"
+msgstr ""
+
+#: ../archive.php:74 ../category.php:44 ../index.php:50
+msgid "Previous posts"
+msgstr ""
+
+#: ../catalogue_constructor.php:123
+msgid "READ MORE  +"
+msgstr ""
+
+#: ../catalogue_constructor.php:131 ../template-topcharts.php:120
+#: ../template-toprating.php:178 ../template-toptable.php:161
+msgid "No posts for this criteria."
+msgstr ""
+
+#: ../functions.php:409 ../page.php:11 ../template-fullwidth.php:16
+msgid "Pages:"
+msgstr ""
+
+#: ../functions.php:417 ../functions.php:424 ../functions.php:430
+#: ../functions.php:437 ../functions.php:445
+msgid "Where to buy"
+msgstr ""
+
+#: ../functions.php:456 ../functions.php:458
+msgid "Review Score"
+msgstr ""
+
+#: ../functions.php:477
+msgid "Search on Amazon"
+msgstr ""
+
+#: ../functions.php:485
+msgid "Search on Ebay"
+msgstr ""
+
+#: ../functions.php:523 ../functions.php:556
+msgid "Buy now"
+msgstr ""
+
+#: ../functions.php:586
+msgid "Prices"
+msgstr ""
+
+#: ../functions.php:668
+msgid "No more posts!"
+msgstr ""
+
+#: ../functions/vc_functions.php:91
+msgid "Type of row width"
+msgstr ""
+
+#: ../functions/vc_functions.php:95
+msgid "Inside content container"
+msgstr ""
+
+#: ../functions/vc_functions.php:96
+msgid "Full width of content container"
+msgstr ""
+
+#: ../functions/vc_functions.php:97
+msgid "Full width of browser window"
+msgstr ""
+
+#: ../functions/vc_functions.php:104
+msgid "Container with sidebar?"
+msgstr ""
+
+#: ../functions/vc_functions.php:105 ../functions/vc_functions.php:115
+#: ../functions/vc_functions.php:511 ../functions/vc_functions.php:759
+#: ../functions/vc_functions.php:766 ../functions/vc_functions.php:787
+#: ../functions/vc_functions.php:892 ../functions/vc_functions.php:1170
+#: ../functions/vc_functions.php:1320 ../functions/vc_functions.php:1389
+#: ../functions/vc_functions.php:1496 ../functions/vc_functions.php:1550
+#: ../functions/vc_functions.php:1793 ../functions/vc_functions.php:1956
+#: ../functions/vc_functions.php:2096 ../functions/vc_functions.php:2144
+#: ../functions/vc_functions.php:2240
+msgid "Yes"
+msgstr ""
+
+#: ../functions/vc_functions.php:108
+msgid ""
+"Is this container with sidebar? Enable this option and use 2/3 + 1/3 layout "
+"for better compatibility if you want to add sidebar widget area."
+msgstr ""
+
+#: ../functions/vc_functions.php:114
+msgid "Make inner container center alignment?"
+msgstr ""
+
+#: ../functions/vc_functions.php:117
+msgid ""
+"This option is good for full width pages. It leaves background of row as "
+"full widht, but makes inner column centered in window with max-width 1170px."
+msgstr ""
+
+#: ../functions/vc_functions.php:140
+msgid "Same window"
+msgstr ""
+
+#: ../functions/vc_functions.php:140
+msgid "New window"
+msgstr ""
+
+#: ../functions/vc_functions.php:144
+msgid "all"
+msgstr ""
+
+#: ../functions/vc_functions.php:145
+msgid "regular"
+msgstr ""
+
+#: ../functions/vc_functions.php:146
+msgid "video"
+msgstr ""
+
+#: ../functions/vc_functions.php:147
+msgid "gallery"
+msgstr ""
+
+#: ../functions/vc_functions.php:148
+msgid "review"
+msgstr ""
+
+#: ../functions/vc_functions.php:149
+msgid "music"
+msgstr ""
+
+#: ../functions/vc_functions.php:211
+msgid "Grid style posts block"
+msgstr ""
+
+#: ../functions/vc_functions.php:214
+msgid "RE Pick block"
+msgstr ""
+
+#: ../functions/vc_functions.php:219 ../functions/vc_functions.php:386
+#: ../functions/vc_functions.php:616 ../functions/vc_functions.php:1096
+#: ../functions/vc_functions.php:1235 ../functions/vc_functions.php:1411
+msgid "Data source"
+msgstr ""
+
+#: ../functions/vc_functions.php:222 ../functions/vc_functions.php:228
+#: ../functions/vc_functions.php:389 ../functions/vc_functions.php:395
+#: ../functions/vc_functions.php:619 ../functions/vc_functions.php:625
+#: ../functions/vc_functions.php:1099 ../functions/vc_functions.php:1107
+#: ../functions/vc_functions.php:1238 ../functions/vc_functions.php:1246
+#: ../functions/vc_functions.php:1414 ../functions/vc_functions.php:1422
+msgid "Category"
+msgstr ""
+
+#: ../functions/vc_functions.php:223 ../functions/vc_functions.php:390
+#: ../functions/vc_functions.php:620 ../functions/vc_functions.php:1101
+#: ../functions/vc_functions.php:1240 ../functions/vc_functions.php:1416
+msgid "Manual select and order"
+msgstr ""
+
+#: ../functions/vc_functions.php:236 ../functions/vc_functions.php:403
+#: ../functions/vc_functions.php:633
+msgid "Enter names of categories. Or leave blank to show all"
+msgstr ""
+
+#: ../functions/vc_functions.php:244 ../functions/vc_functions.php:411
+#: ../functions/vc_functions.php:641
+msgid "Post names"
+msgstr ""
+
+#: ../functions/vc_functions.php:251 ../functions/vc_functions.php:418
+#: ../functions/vc_functions.php:648
+msgid "Or enter names of posts."
+msgstr ""
+
+#: ../functions/vc_functions.php:260 ../functions/vc_functions.php:657
+#: ../functions/vc_functions.php:1309 ../functions/vc_functions.php:1485
+msgid "Set columns"
+msgstr ""
+
+#: ../functions/vc_functions.php:263
+msgid "2 columns"
+msgstr ""
+
+#: ../functions/vc_functions.php:264 ../functions/vc_functions.php:660
+#: ../functions/vc_functions.php:1312 ../functions/vc_functions.php:1488
+msgid "3 columns"
+msgstr ""
+
+#: ../functions/vc_functions.php:269 ../functions/vc_functions.php:426
+#: ../functions/vc_functions.php:667 ../functions/vc_functions.php:1176
+#: ../functions/vc_functions.php:1326 ../functions/vc_functions.php:1502
+#: ../functions/vc_functions.php:2191
+msgid "Order by"
+msgstr ""
+
+#: ../functions/vc_functions.php:272 ../functions/vc_functions.php:429
+#: ../functions/vc_functions.php:670 ../functions/vc_functions.php:1179
+#: ../functions/vc_functions.php:1329 ../functions/vc_functions.php:1505
+#: ../functions/vc_functions.php:2194
+msgid "Date"
+msgstr ""
+
+#: ../functions/vc_functions.php:273 ../functions/vc_functions.php:430
+#: ../functions/vc_functions.php:671 ../functions/vc_functions.php:1180
+#: ../functions/vc_functions.php:1330 ../functions/vc_functions.php:1506
+#: ../functions/vc_functions.php:2195
+msgid "Order by post ID"
+msgstr ""
+
+#: ../functions/vc_functions.php:275 ../functions/vc_functions.php:432
+#: ../functions/vc_functions.php:673 ../functions/vc_functions.php:1182
+#: ../functions/vc_functions.php:1332 ../functions/vc_functions.php:1508
+#: ../functions/vc_functions.php:2197
+msgid "Last modified date"
+msgstr ""
+
+#: ../functions/vc_functions.php:276 ../functions/vc_functions.php:433
+#: ../functions/vc_functions.php:674 ../functions/vc_functions.php:1183
+#: ../functions/vc_functions.php:1333 ../functions/vc_functions.php:1509
+#: ../functions/vc_functions.php:2198
+msgid "Number of comments"
+msgstr ""
+
+#: ../functions/vc_functions.php:277 ../functions/vc_functions.php:434
+#: ../functions/vc_functions.php:675
+msgid "Meta value"
+msgstr ""
+
+#: ../functions/vc_functions.php:278 ../functions/vc_functions.php:435
+#: ../functions/vc_functions.php:676
+msgid "Meta value number"
+msgstr ""
+
+#: ../functions/vc_functions.php:279 ../functions/vc_functions.php:436
+#: ../functions/vc_functions.php:677 ../functions/vc_functions.php:1185
+#: ../functions/vc_functions.php:1335 ../functions/vc_functions.php:1511
+#: ../functions/vc_functions.php:2200
+msgid "Random order"
+msgstr ""
+
+#: ../functions/vc_functions.php:281 ../functions/vc_functions.php:438
+#: ../functions/vc_functions.php:679
+msgid ""
+"Select order type. If \"Meta value\" or \"Meta value Number\" is chosen then "
+"meta key is required."
+msgstr ""
+
+#: ../functions/vc_functions.php:282 ../functions/vc_functions.php:292
+#: ../functions/vc_functions.php:308 ../functions/vc_functions.php:320
+#: ../functions/vc_functions.php:332 ../functions/vc_functions.php:344
+#: ../functions/vc_functions.php:361 ../functions/vc_functions.php:439
+#: ../functions/vc_functions.php:449 ../functions/vc_functions.php:465
+#: ../functions/vc_functions.php:477 ../functions/vc_functions.php:489
+#: ../functions/vc_functions.php:501 ../functions/vc_functions.php:513
+#: ../functions/vc_functions.php:680 ../functions/vc_functions.php:690
+#: ../functions/vc_functions.php:706 ../functions/vc_functions.php:718
+#: ../functions/vc_functions.php:730 ../functions/vc_functions.php:742
+#: ../functions/vc_functions.php:768 ../functions/vc_functions.php:1187
+#: ../functions/vc_functions.php:1197 ../functions/vc_functions.php:1214
+#: ../functions/vc_functions.php:1337 ../functions/vc_functions.php:1347
+#: ../functions/vc_functions.php:1364 ../functions/vc_functions.php:1380
+#: ../functions/vc_functions.php:1513 ../functions/vc_functions.php:1523
+#: ../functions/vc_functions.php:1540 ../functions/vc_functions.php:1552
+msgid "Data settings"
+msgstr ""
+
+#: ../functions/vc_functions.php:290 ../functions/vc_functions.php:447
+#: ../functions/vc_functions.php:688 ../functions/vc_functions.php:1195
+#: ../functions/vc_functions.php:1345 ../functions/vc_functions.php:1521
+#: ../functions/vc_functions.php:2205
+msgid "Sorting"
+msgstr ""
+
+#: ../functions/vc_functions.php:294 ../functions/vc_functions.php:451
+#: ../functions/vc_functions.php:692 ../functions/vc_functions.php:1199
+#: ../functions/vc_functions.php:1349 ../functions/vc_functions.php:1525
+#: ../functions/vc_functions.php:2208
+msgid "Descending"
+msgstr ""
+
+#: ../functions/vc_functions.php:295 ../functions/vc_functions.php:452
+#: ../functions/vc_functions.php:693 ../functions/vc_functions.php:1200
+#: ../functions/vc_functions.php:1350 ../functions/vc_functions.php:1526
+#: ../functions/vc_functions.php:2209
+msgid "Ascending"
+msgstr ""
+
+#: ../functions/vc_functions.php:297 ../functions/vc_functions.php:454
+#: ../functions/vc_functions.php:695 ../functions/vc_functions.php:1202
+#: ../functions/vc_functions.php:1352 ../functions/vc_functions.php:1528
+#: ../functions/vc_functions.php:2211
+msgid "Select sorting order."
+msgstr ""
+
+#: ../functions/vc_functions.php:305 ../functions/vc_functions.php:462
+#: ../functions/vc_functions.php:703
+msgid "Meta key"
+msgstr ""
+
+#: ../functions/vc_functions.php:307 ../functions/vc_functions.php:464
+#: ../functions/vc_functions.php:705
+msgid "Input meta key for grid ordering."
+msgstr ""
+
+#: ../functions/vc_functions.php:316 ../functions/vc_functions.php:473
+#: ../functions/vc_functions.php:714
+msgid "Choose post formats"
+msgstr ""
+
+#: ../functions/vc_functions.php:319 ../functions/vc_functions.php:476
+#: ../functions/vc_functions.php:717
+msgid "Choose post formats to display or leave blank to display all"
+msgstr ""
+
+#: ../functions/vc_functions.php:328 ../functions/vc_functions.php:485
+#: ../functions/vc_functions.php:726
+msgid "Offset"
+msgstr ""
+
+#: ../functions/vc_functions.php:331 ../functions/vc_functions.php:488
+#: ../functions/vc_functions.php:729
+msgid "Number of products to offset"
+msgstr ""
+
+#: ../functions/vc_functions.php:358 ../functions/vc_functions.php:1378
+msgid "Infinite scroll"
+msgstr ""
+
+#: ../functions/vc_functions.php:377
+msgid "Posts with small thumbs"
+msgstr ""
+
+#: ../functions/vc_functions.php:380 ../functions/vc_functions.php:381
+#: ../functions/vc_functions.php:534 ../functions/vc_functions.php:572
+#: ../functions/vc_functions.php:573 ../functions/vc_functions.php:1027
+#: ../functions/vc_functions.php:1028
+msgid "For row with sidebar"
+msgstr ""
+
+#: ../functions/vc_functions.php:533 ../functions/vc_functions.php:854
+#: ../functions/vc_functions.php:878 ../functions/vc_functions.php:1572
+#: ../functions/vc_functions.php:1625 ../functions/vc_functions.php:1636
+#: ../functions/vc_functions.php:1649 ../functions/vc_functions.php:1666
+#: ../functions/vc_functions.php:1679 ../functions/vc_functions.php:1729
+#: ../functions/vc_functions.php:1753 ../functions/vc_functions.php:1767
+#: ../functions/vc_functions.php:1811 ../functions/vc_functions.php:1835
+#: ../functions/vc_functions.php:1849 ../functions/vc_functions.php:1871
+#: ../functions/vc_functions.php:2034 ../functions/vc_functions.php:2046
+#: ../functions/vc_functions.php:2059 ../functions/vc_functions.php:2124
+msgid "Content"
+msgstr ""
+
+#: ../functions/vc_functions.php:569
+msgid "Title for custom block"
+msgstr ""
+
+#: ../functions/vc_functions.php:584
+msgid "Title position"
+msgstr ""
+
+#: ../functions/vc_functions.php:587
+msgid "above line"
+msgstr ""
+
+#: ../functions/vc_functions.php:588
+msgid "left position inside line"
+msgstr ""
+
+#: ../functions/vc_functions.php:589
+msgid "center position inside line"
+msgstr ""
+
+#: ../functions/vc_functions.php:596
+msgid "Set url near title or leave blank"
+msgstr ""
+
+#: ../functions/vc_functions.php:608
+msgid "Posts grid in columns"
+msgstr ""
+
+#: ../functions/vc_functions.php:611
+msgid "Columned grid"
+msgstr ""
+
+#: ../functions/vc_functions.php:661 ../functions/vc_functions.php:1313
+#: ../functions/vc_functions.php:1489
+msgid "4 columns"
+msgstr ""
+
+#: ../functions/vc_functions.php:663 ../functions/vc_functions.php:1315
+#: ../functions/vc_functions.php:1491
+msgid "4 columns is good only for full width row"
+msgstr ""
+
+#: ../functions/vc_functions.php:750
+msgid "Symbols in exerpt"
+msgstr ""
+
+#: ../functions/vc_functions.php:753
+msgid "Set 0 to disable exerpt"
+msgstr ""
+
+#: ../functions/vc_functions.php:758
+msgid "Enable button?"
+msgstr ""
+
+#: ../functions/vc_functions.php:786
+msgid "Add border to block?"
+msgstr ""
+
+#: ../functions/vc_functions.php:794
+msgid "Offer Box"
+msgstr ""
+
+#: ../functions/vc_functions.php:797 ../functions/vc_functions.php:843
+#: ../functions/vc_functions.php:867
+msgid "Affiliate and offers"
+msgstr ""
+
+#: ../functions/vc_functions.php:798
+msgid "Offer box"
+msgstr ""
+
+#: ../functions/vc_functions.php:802
+msgid "Offer price :"
+msgstr ""
+
+#: ../functions/vc_functions.php:808
+msgid "Button link :"
+msgstr ""
+
+#: ../functions/vc_functions.php:813
+msgid "Button text :"
+msgstr ""
+
+#: ../functions/vc_functions.php:818
+msgid "Title of offer :"
+msgstr ""
+
+#: ../functions/vc_functions.php:824
+msgid "OfferBox description:"
+msgstr ""
+
+#: ../functions/vc_functions.php:830
+msgid "Offer thumbnail url"
+msgstr ""
+
+#: ../functions/vc_functions.php:840
+msgid "Pros block"
+msgstr ""
+
+#: ../functions/vc_functions.php:844
+msgid "List of positives"
+msgstr ""
+
+#: ../functions/vc_functions.php:848
+msgid "Pros title"
+msgstr ""
+
+#: ../functions/vc_functions.php:850
+msgid "PROS:"
+msgstr ""
+
+#: ../functions/vc_functions.php:857
+msgid ""
+"<ul><li>Positive 1</li><li>Positive 2</li><li>Positive 3</li><li>Positive 4</"
+"li></ul>"
+msgstr ""
+
+#: ../functions/vc_functions.php:864
+msgid "Cons block"
+msgstr ""
+
+#: ../functions/vc_functions.php:868
+msgid "List of negatives"
+msgstr ""
+
+#: ../functions/vc_functions.php:872
+msgid "Cons title"
+msgstr ""
+
+#: ../functions/vc_functions.php:874
+msgid "CONS:"
+msgstr ""
+
+#: ../functions/vc_functions.php:881
+msgid ""
+"<ul><li>Negative 1</li><li>Negative 2</li><li>Negative 3</li><li>Negative 4</"
+"li></ul>"
+msgstr ""
+
+#: ../functions/vc_functions.php:891
+msgid "Make title uppercase?"
+msgstr ""
+
+#: ../functions/vc_functions.php:898
+msgid "Set font size in px (by default, 21px)"
+msgstr ""
+
+#: ../functions/vc_functions.php:909
+msgid "Align"
+msgstr ""
+
+#: ../functions/vc_functions.php:912
+msgid "Left"
+msgstr ""
+
+#: ../functions/vc_functions.php:913
+msgid "Right"
+msgstr ""
+
+#: ../functions/vc_functions.php:914
+msgid "Center"
+msgstr ""
+
+#: ../functions/vc_functions.php:920
+msgid "Set width in px or %"
+msgstr ""
+
+#: ../functions/vc_functions.php:927
+msgid "Margin from top in px"
+msgstr ""
+
+#: ../functions/vc_functions.php:934
+msgid "Margin from bottom in px"
+msgstr ""
+
+#: ../functions/vc_functions.php:945
+msgid "Flex slider fade"
+msgstr ""
+
+#: ../functions/vc_functions.php:1063
+msgid "Woo Box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1066 ../functions/vc_functions.php:1090
+#: ../functions/vc_functions.php:1229 ../functions/vc_functions.php:1405
+msgid "Woocommerce"
+msgstr ""
+
+#: ../functions/vc_functions.php:1067
+msgid "Woocommerce product box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1071
+msgid "Set Product name"
+msgstr ""
+
+#: ../functions/vc_functions.php:1078
+msgid "Type name of product"
+msgstr ""
+
+#: ../functions/vc_functions.php:1087
+msgid "List of woo products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1091 ../functions/vc_functions.php:1230
+#: ../functions/vc_functions.php:1406
+msgid "Works only with Woocommerce"
+msgstr ""
+
+#: ../functions/vc_functions.php:1100 ../functions/vc_functions.php:1123
+#: ../functions/vc_functions.php:1239 ../functions/vc_functions.php:1262
+#: ../functions/vc_functions.php:1415 ../functions/vc_functions.php:1438
+msgid "Tag"
+msgstr ""
+
+#: ../functions/vc_functions.php:1102 ../functions/vc_functions.php:1241
+#: ../functions/vc_functions.php:1417
+msgid "Type of products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1115 ../functions/vc_functions.php:1254
+#: ../functions/vc_functions.php:1430
+msgid "Enter names of categories"
+msgstr ""
+
+#: ../functions/vc_functions.php:1131 ../functions/vc_functions.php:1270
+#: ../functions/vc_functions.php:1446
+msgid "Enter names of tags"
+msgstr ""
+
+#: ../functions/vc_functions.php:1139 ../functions/vc_functions.php:1278
+#: ../functions/vc_functions.php:1454
+msgid "Product names"
+msgstr ""
+
+#: ../functions/vc_functions.php:1154 ../functions/vc_functions.php:1293
+#: ../functions/vc_functions.php:1469
+msgid "Type of product"
+msgstr ""
+
+#: ../functions/vc_functions.php:1157 ../functions/vc_functions.php:1296
+#: ../functions/vc_functions.php:1472
+msgid "Recent products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1159 ../functions/vc_functions.php:1298
+#: ../functions/vc_functions.php:1474
+msgid "Sale products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1160 ../functions/vc_functions.php:1299
+#: ../functions/vc_functions.php:1475
+msgid "Best selling products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1169 ../functions/vc_functions.php:1319
+#: ../functions/vc_functions.php:1495
+msgid "Show only offers with actual coupons?"
+msgstr ""
+
+#: ../functions/vc_functions.php:1184 ../functions/vc_functions.php:1334
+#: ../functions/vc_functions.php:1510 ../functions/vc_functions.php:2199
+msgid "Menu order/Page Order"
+msgstr ""
+
+#: ../functions/vc_functions.php:1226
+msgid "Grid of woocommerce products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1388
+msgid "Disable box style in grid?"
+msgstr ""
+
+#: ../functions/vc_functions.php:1402
+msgid "Columns of woocommerce products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1569
+msgid "Search box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1573
+msgid "Searchbox"
+msgstr ""
+
+#: ../functions/vc_functions.php:1578
+msgid "Where to search"
+msgstr ""
+
+#: ../functions/vc_functions.php:1581
+msgid "Posts"
+msgstr ""
+
+#: ../functions/vc_functions.php:1582
+msgid "Pages"
+msgstr ""
+
+#: ../functions/vc_functions.php:1583
+msgid "Products"
+msgstr ""
+
+#: ../functions/vc_functions.php:1588
+msgid "Placeholder"
+msgstr ""
+
+#: ../functions/vc_functions.php:1595 ../functions/vc_functions.php:2065
+msgid "Color of button"
+msgstr ""
+
+#: ../functions/vc_functions.php:1598 ../functions/vc_functions.php:1865
+#: ../functions/vc_functions.php:1987 ../functions/vc_functions.php:2068
+msgid "orange"
+msgstr ""
+
+#: ../functions/vc_functions.php:1599 ../functions/vc_functions.php:1988
+#: ../functions/vc_functions.php:2069
+msgid "gold"
+msgstr ""
+
+#: ../functions/vc_functions.php:1600 ../functions/vc_functions.php:1860
+#: ../functions/vc_functions.php:1989 ../functions/vc_functions.php:2070
+msgid "black"
+msgstr ""
+
+#: ../functions/vc_functions.php:1601 ../functions/vc_functions.php:1862
+#: ../functions/vc_functions.php:1990 ../functions/vc_functions.php:2071
+msgid "blue"
+msgstr ""
+
+#: ../functions/vc_functions.php:1602 ../functions/vc_functions.php:1863
+#: ../functions/vc_functions.php:1991 ../functions/vc_functions.php:2072
+msgid "red"
+msgstr ""
+
+#: ../functions/vc_functions.php:1603 ../functions/vc_functions.php:1864
+#: ../functions/vc_functions.php:1992 ../functions/vc_functions.php:2073
+msgid "green"
+msgstr ""
+
+#: ../functions/vc_functions.php:1604 ../functions/vc_functions.php:1993
+#: ../functions/vc_functions.php:2074
+msgid "rosy"
+msgstr ""
+
+#: ../functions/vc_functions.php:1605 ../functions/vc_functions.php:1994
+#: ../functions/vc_functions.php:2075
+msgid "brown"
+msgstr ""
+
+#: ../functions/vc_functions.php:1606 ../functions/vc_functions.php:1995
+#: ../functions/vc_functions.php:2076
+msgid "pink"
+msgstr ""
+
+#: ../functions/vc_functions.php:1607 ../functions/vc_functions.php:1866
+#: ../functions/vc_functions.php:1996 ../functions/vc_functions.php:2077
+msgid "purple"
+msgstr ""
+
+#: ../functions/vc_functions.php:1608 ../functions/vc_functions.php:1997
+#: ../functions/vc_functions.php:2078
+msgid "teal"
+msgstr ""
+
+#: ../functions/vc_functions.php:1622
+msgid "Testimonial"
+msgstr ""
+
+#: ../functions/vc_functions.php:1626
+msgid "Testimonial box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1630
+msgid "Author"
+msgstr ""
+
+#: ../functions/vc_functions.php:1632
+msgid "Add author or leave blank."
+msgstr ""
+
+#: ../functions/vc_functions.php:1639
+msgid "Content goes here, click edit button to change this text."
+msgstr ""
+
+#: ../functions/vc_functions.php:1646
+msgid "Styled list"
+msgstr ""
+
+#: ../functions/vc_functions.php:1650
+msgid "Styled simple list"
+msgstr ""
+
+#: ../functions/vc_functions.php:1655
+msgid "Type of list"
+msgstr ""
+
+#: ../functions/vc_functions.php:1658
+msgid "Arrow"
+msgstr ""
+
+#: ../functions/vc_functions.php:1659
+msgid "Check"
+msgstr ""
+
+#: ../functions/vc_functions.php:1660
+msgid "Star"
+msgstr ""
+
+#: ../functions/vc_functions.php:1661
+msgid "Bullet"
+msgstr ""
+
+#: ../functions/vc_functions.php:1669 ../functions/vc_functions.php:2015
+msgid "<ul><li>Item 1</li><li>Item 2</li><li>Item 3</li><li>Item 4</li></ul>"
+msgstr ""
+
+#: ../functions/vc_functions.php:1676 ../functions/vc_functions.php:1680
+msgid "Numbered Headings"
+msgstr ""
+
+#: ../functions/vc_functions.php:1684 ../functions/vc_functions.php:1734
+msgid "Number"
+msgstr ""
+
+#: ../functions/vc_functions.php:1691 ../functions/vc_functions.php:1741
+msgid "Style of number"
+msgstr ""
+
+#: ../functions/vc_functions.php:1695 ../functions/vc_functions.php:1745
+#: ../functions/vc_functions.php:1829
+msgid "Orange"
+msgstr ""
+
+#: ../functions/vc_functions.php:1696 ../functions/vc_functions.php:1746
+#: ../functions/vc_functions.php:1828
+msgid "Black"
+msgstr ""
+
+#: ../functions/vc_functions.php:1697 ../functions/vc_functions.php:1747
+#: ../functions/vc_functions.php:1827
+msgid "Grey"
+msgstr ""
+
+#: ../functions/vc_functions.php:1704
+msgid "Heading"
+msgstr ""
+
+#: ../functions/vc_functions.php:1715
+msgid "Text"
+msgstr ""
+
+#: ../functions/vc_functions.php:1726 ../functions/vc_functions.php:1730
+msgid "Box with number"
+msgstr ""
+
+#: ../functions/vc_functions.php:1764
+msgid "Cart box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1768
+msgid "Box with image"
+msgstr ""
+
+#: ../functions/vc_functions.php:1792
+msgid "Make background image contain?"
+msgstr ""
+
+#: ../functions/vc_functions.php:1798
+msgid "URL:"
+msgstr ""
+
+#: ../functions/vc_functions.php:1800
+msgid "Will be used on image and title"
+msgstr ""
+
+#: ../functions/vc_functions.php:1808
+msgid "Titled box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1812
+msgid "Box with border and title"
+msgstr ""
+
+#: ../functions/vc_functions.php:1818 ../functions/vc_functions.php:1964
+msgid "Title of box"
+msgstr ""
+
+#: ../functions/vc_functions.php:1823
+msgid "Style"
+msgstr ""
+
+#: ../functions/vc_functions.php:1830
+msgid "Double dotted"
+msgstr ""
+
+#: ../functions/vc_functions.php:1846
+msgid "Colored Table"
+msgstr ""
+
+#: ../functions/vc_functions.php:1850
+msgid "Table with color header"
+msgstr ""
+
+#: ../functions/vc_functions.php:1855
+msgid "Color of heading table :"
+msgstr ""
+
+#: ../functions/vc_functions.php:1859
+msgid "grey"
+msgstr ""
+
+#: ../functions/vc_functions.php:1861
+msgid "yellow"
+msgstr ""
+
+#: ../functions/vc_functions.php:1917
+msgid "Price table"
+msgstr ""
+
+#: ../functions/vc_functions.php:1926
+msgid "Extra class name"
+msgstr ""
+
+#: ../functions/vc_functions.php:1933
+msgid "Price table column"
+msgstr ""
+
+#: ../functions/vc_functions.php:1941
+msgid "Column size"
+msgstr ""
+
+#: ../functions/vc_functions.php:1952
+msgid "Featured"
+msgstr ""
+
+#: ../functions/vc_functions.php:1955
+msgid "No"
+msgstr ""
+
+#: ../functions/vc_functions.php:1968
+msgid "Price"
+msgstr ""
+
+#: ../functions/vc_functions.php:1972
+msgid "$99.99"
+msgstr ""
+
+#: ../functions/vc_functions.php:1976
+msgid "Per"
+msgstr ""
+
+#: ../functions/vc_functions.php:1979
+msgid "month"
+msgstr ""
+
+#: ../functions/vc_functions.php:1984
+msgid "Color"
+msgstr ""
+
+#: ../functions/vc_functions.php:2002
+msgid "Button URL"
+msgstr ""
+
+#: ../functions/vc_functions.php:2007 ../functions/vc_functions.php:2112
+msgid "Button text"
+msgstr ""
+
+#: ../functions/vc_functions.php:2013
+msgid "List of items"
+msgstr ""
+
+#: ../functions/vc_functions.php:2031
+msgid "Text for members block"
+msgstr ""
+
+#: ../functions/vc_functions.php:2035
+msgid "Hide from guests"
+msgstr ""
+
+#: ../functions/vc_functions.php:2039
+msgid "Text for guests"
+msgstr ""
+
+#: ../functions/vc_functions.php:2042
+msgid "Please, login or register to view this content"
+msgstr ""
+
+#: ../functions/vc_functions.php:2049
+msgid "Text for members"
+msgstr ""
+
+#: ../functions/vc_functions.php:2056
+msgid "Button with popup"
+msgstr ""
+
+#: ../functions/vc_functions.php:2060
+msgid "Popup on button click"
+msgstr ""
+
+#: ../functions/vc_functions.php:2084
+msgid "Button Size"
+msgstr ""
+
+#: ../functions/vc_functions.php:2087
+msgid "Medium"
+msgstr ""
+
+#: ../functions/vc_functions.php:2088
+msgid "Small"
+msgstr ""
+
+#: ../functions/vc_functions.php:2089
+msgid "Big"
+msgstr ""
+
+#: ../functions/vc_functions.php:2095
+msgid "Enable icon in button?"
+msgstr ""
+
+#: ../functions/vc_functions.php:2101
+msgid "Icon"
+msgstr ""
+
+#: ../functions/vc_functions.php:2118
+msgid "Max width of popup"
+msgstr ""
+
+#: ../functions/vc_functions.php:2127
+msgid "Content of popup. You can use also shortcode"
+msgstr ""
+
+#: ../functions/vc_functions.php:2136
+msgid "Text Color"
+msgstr ""
+
+#: ../functions/vc_functions.php:2143
+msgid "Enable design of tabs without border?"
+msgstr ""
+
+#: ../functions/vc_functions.php:2159
+msgid "MDTF shortcode"
+msgstr ""
+
+#: ../functions/vc_functions.php:2162
+msgid "Works only with MDTF"
+msgstr ""
+
+#: ../functions/vc_functions.php:2167
+msgid "Output template"
+msgstr ""
+
+#: ../functions/vc_functions.php:2170
+msgid "Column grid loop"
+msgstr ""
+
+#: ../functions/vc_functions.php:2171
+msgid "Masonry grid loop"
+msgstr ""
+
+#: ../functions/vc_functions.php:2172
+msgid "List loop"
+msgstr ""
+
+#: ../functions/vc_functions.php:2173
+msgid "Woocommerce grid - use only with woocommerce enabled"
+msgstr ""
+
+#: ../functions/vc_functions.php:2174
+msgid "Woocommerce list - use only with woocommerce enabled"
+msgstr ""
+
+#: ../functions/vc_functions.php:2175
+msgid "Review list - use only for posts"
+msgstr ""
+
+#: ../functions/vc_functions.php:2180
+msgid "Choose post type"
+msgstr ""
+
+#: ../functions/vc_functions.php:2222
+msgid "Pagination position"
+msgstr ""
+
+#: ../functions/vc_functions.php:2225
+msgid "Top and bottom"
+msgstr ""
+
+#: ../functions/vc_functions.php:2226
+msgid "Top"
+msgstr ""
+
+#: ../functions/vc_functions.php:2227
+msgid "Bottom"
+msgstr ""
+
+#: ../functions/vc_functions.php:2232
+msgid "Taxonomies"
+msgstr ""
+
+#: ../functions/vc_functions.php:2235
+msgid ""
+"if you want to show posts of any custom taxonomies. Example of setting this "
+"field: taxonomies=product_cat+77+96+12"
+msgstr ""
+
+#: ../functions/vc_functions.php:2239
+msgid "Enable ajax?"
+msgstr ""
+
+#: ../functions/vc_templates/grid_loop_mod.php:77
+#: ../functions/vc_templates/grid_loop_mod.php:79
+#: ../functions/vc_templates/wpsm_woogrid.php:183
+#: ../template-fullwidthgrid.php:71
+msgid "More posts"
+msgstr ""
+
+#: ../functions/vc_templates/post_slider_mod.php:27
+msgid "Read more"
+msgstr ""
+
+#: ../functions/vc_templates/tab_mod.php:76
+#: ../functions/vc_templates/tab_mod.php:114
+#: ../functions/vc_templates/tab_mod.php:152
+#: ../functions/vc_templates/tab_mod.php:190
+msgid "Read more from"
+msgstr ""
+
+#: ../functions/vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../functions/vc_templates/vc_accordion_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../functions/vc_templates/vc_cta_button2.php:22
+msgid "Text on the button"
+msgstr ""
+
+#: ../functions/vc_templates/vc_tabs.php:48
+msgid "Previous tab"
+msgstr ""
+
+#: ../functions/vc_templates/vc_tabs.php:48
+msgid "Next tab"
+msgstr ""
+
+#: ../functions/vc_templates/woo_mod.php:63
+#: ../functions/vc_templates/wpsm_woocolumns.php:94
+#: ../functions/vc_templates/wpsm_woogrid.php:111
+msgid "Sale!"
+msgstr ""
+
+#: ../functions/vc_templates/wpsm_woogrid.php:121
+msgid "Details +"
+msgstr ""
+
+#: ../header.php:58
+msgid "Cart"
+msgstr ""
+
+#: ../inc/parts/related_posts.php:17
+msgid "Related Articles"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:19
+msgid ""
+"A widget that displays 2 tabs (popular, categories, tags, latest comments). "
+"Use only in sidebar! "
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:25
+msgid "RePick: Tabs"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:123 ../repick_index.php:19
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:123 ../inc/widgets/tabs_widget.php:205
+#: ../inc/widgets/tabs_widget.php:223
+msgid "Comments"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:161
+msgid "Use this widget only in sidebar area!"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:164
+msgid "Content for 1 tab"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:166 ../inc/widgets/tabs_widget.php:176
+msgid "Popular posts"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:167 ../inc/widgets/tabs_widget.php:177
+msgid "Latest comments"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:168 ../inc/widgets/tabs_widget.php:178
+msgid "Category list"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:169 ../inc/widgets/tabs_widget.php:179
+msgid "Tags cloud"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:174
+msgid "Content for 2 tab"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:183
+msgid "Enter title for first tab:"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:185
+msgid "Note, maximum 15 symbols!"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:188
+msgid "Enter title for second tab"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:193
+msgid "Popular posts for tab 1 published by:"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:195 ../inc/widgets/tabs_widget.php:213
+msgid "all time"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:196 ../inc/widgets/tabs_widget.php:214
+msgid "this week"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:197 ../inc/widgets/tabs_widget.php:215
+msgid "this month"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:198 ../inc/widgets/tabs_widget.php:216
+msgid "last 3 month"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:202
+msgid "Popular posts for tab 1 based on:"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:204
+msgid "Post hot"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:206 ../inc/widgets/tabs_widget.php:222
+#: ../inc/widgets/tabs_widget.php:224
+msgid "Post views"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:208 ../inc/widgets/tabs_widget.php:226
+msgid "Note, post views may not work if you use cache plugins!"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:211
+msgid "Popular posts for tab 2 published by:"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:220
+msgid "Popular posts for tab 2 based on:"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:229
+msgid "Enter how many posts to show"
+msgstr ""
+
+#: ../inc/widgets/tabs_widget.php:233
+msgid "Dark Skin ?"
+msgstr ""
+
+#: ../repick_index.php:16
+msgid "Sort by:"
+msgstr ""
+
+#: ../repick_index.php:17
+msgid "Latest"
+msgstr ""
+
+#: ../repick_index.php:18
+msgid "Most Hot"
+msgstr ""
+
+#: ../repick_index.php:21
+msgid "Lowest Price"
+msgstr ""
+
+#: ../repick_index.php:22
+msgid "Highest Price"
+msgstr ""
+
+#: ../repick_index.php:24
+msgid "Random"
+msgstr ""
+
+#: ../search.php:7
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:26
+msgid "Sorry. No posts founded"
+msgstr ""
+
+#: ../single.php:81
+msgid "Editor's choice"
+msgstr ""
+
+#: ../template-toprating.php:173
+msgid "Read full review"
+msgstr ""
+
+#~ msgid ""
+#~ "This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+#~ "framework\">Vafpress Framework %s</a> powered by <a href=\"http://"
+#~ "vafpress.com\">Vafpress</a>"
+#~ msgstr " "
